@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="OperaTest(failed)">
+    <parameter name="browsers" value="Opera"/>
+    <classes>
+      <class name="com.dtt.tests.dttPOMRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.dtt.tests.dttPOMRunner -->
+    </classes>
+  </test> <!-- OperaTest(failed) -->
+  <test name="IETest(failed)">
+    <parameter name="browsers" value="IE"/>
+    <classes>
+      <class name="Runners.autoRunnerIE">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- Runners.autoRunnerIE -->
+    </classes>
+  </test> <!-- IETest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
