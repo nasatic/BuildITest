@@ -34,7 +34,7 @@ public class AddAddrStepDef {
             throws InterruptedException {
 
 //        auto.launchOPERAdriver();
-        driver = BrowserLists.startFOXdbrowser();
+        driver = BrowserLists.startFOXbrowser();
         PageFactory.initElements(driver, AutoPracticePOM.class);
         Thread.sleep(3000);
         auto.clickOnSignIn();
@@ -116,7 +116,7 @@ public class AddAddrStepDef {
 
     @After
     public void tearDown(Scenario scenario) {
-        if (!scenario.isFailed()) {
+        if (scenario.isFailed()) {
             final byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
             scenario.embed(screenshot, "image/png");
 

@@ -9,7 +9,6 @@
   <class name = "Runners.RunHomeAndLogin"/>
   </classes>
   </test> <!-- Test -->
-  
 
   <test name="ChromeTest">  
   <parameter name="browsers" value="chrome"></parameter>

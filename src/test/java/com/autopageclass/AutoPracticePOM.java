@@ -29,6 +29,7 @@ public AutoPracticePOM(WebDriver driver){
 	this.driver = driver;
 }
 
+
 public void launchIEdriver() {
 	driver = new InternetExplorerDriver();
 	driver.get("   ");

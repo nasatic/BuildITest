@@ -17,17 +17,15 @@ public class BrowserLists {
         driver = new InternetExplorerDriver();
         driver.get("http://automationpractice.com/index.php");
         driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-
+        driver.manage().timeouts().implicitlyWait(12, TimeUnit.SECONDS);
         return driver;
     }
 
-    public static WebDriver startFOXdbrowser() {
+    public static WebDriver startFOXbrowser() {
         driver = new FirefoxDriver();
         driver.get("http://automationpractice.com/index.php");
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-
         return driver;
     }
 

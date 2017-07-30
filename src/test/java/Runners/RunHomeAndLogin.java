@@ -5,15 +5,12 @@ import Pages.HomePage;
 import Pages.OrderHistoryPage;
 import Pages.loginPage;
 import Utility.BrowserLists;
+import Utility.ScreenPrint;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
-import org.springframework.context.support.FileSystemXmlApplicationContext;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
-
-import Utility.ScreenPrint;
-import WebDriver.DriverInstance;
 
 public class RunHomeAndLogin {
 
@@ -23,14 +20,14 @@ public class RunHomeAndLogin {
     OrderHistoryPage order = new OrderHistoryPage(driver);
     AddressPage address = new AddressPage(driver);
 
+
     @Test(priority = 1)
 
     public void loginPage() throws Throwable {
-//		driver = DriverInstance.startBrowser("opera","http://automationpractice.com/index.php");
-        driver = BrowserLists.startFOXdbrowser();
+        driver = BrowserLists.startIEbrowser();
         PageFactory.initElements(driver, loginPage.class);
         log.logonToHomePage("testing01@mine.com", "billyjones");
-		System.out.println("BrowserList Class Contains :" + BrowserLists.class);
+        System.out.println("BrowserList Class Contains :" + BrowserLists.class);
 
     }
 
@@ -65,8 +62,7 @@ public class RunHomeAndLogin {
     @AfterMethod
     public void closeDown(ITestResult res) {
 
-        if (ITestResult.FAILURE == res.getStatus()) {
-
+        if (ITestResult.SUCCESS == res.getStatus()) {
             ScreenPrint.getScreenShot(driver, res.getName());
 
         }

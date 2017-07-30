@@ -5,311 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="776b9913-c34c-4aa4-9ecc-075e7d9e5cd2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_64.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_schema_core_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_schema_validator_2_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_picocontainer_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_testng_1_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_1_v20170120.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_1_v20170120.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mozilla_rhino_1_7R4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_picocontainer_picocontainer_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.springBeans" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrossBrowserTests.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NasaTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XBrowserTests.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beansTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Utility/BrowserLists.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.settings/org.eclipse.ltk.core.refactoring.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.settings/org.testng.eclipse.maven.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/.springBeans" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/CrossBrowserTests.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/description" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/hooks/applypatch-msg.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/hooks/commit-msg.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/hooks/post-update.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/hooks/pre-applypatch.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/hooks/pre-commit.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/hooks/pre-push.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/hooks/pre-rebase.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/hooks/pre-receive.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/hooks/prepare-commit-msg.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/hooks/update.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.git/info/exclude" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/NasaTest.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/XBrowserTests.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/beansTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/main/java/CucumberTest/NasaTest/App.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/main/java/CucumberTest/NasaTest/Test1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/main/java/CucumberTest/NasaTest/testProperties.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/CucumberTest/NasaTest/AppTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Feat/AddAddress.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Feat/autosite.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Feat/dtt.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Feat/dttPOM.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Pages/AddressPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Pages/HomePage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Pages/OrderHistoryPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Pages/RunHomeAndLogin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Pages/loginPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/PicoContainer/ClassList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/PicoContainer/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Runners/AddAddressRunner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Runners/autoRunnerChrome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Runners/autoRunnerFox.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Runners/autoRunnerIE.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Runners/autoRunnerOpera.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/AddAddrStepDef.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/DDTestStepDef.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/FromSeleniumIDE.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/PlaceOrderStepDef.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/PlaceOrders.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/PlaceOrdersRunner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/RegNewRunner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/RegNewStepDef.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/Register.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/RegisterNew.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/RegisterRunner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/RegisterStepDef.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/TestingPlaceOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/dttPOMStepDef.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/dttStepDef.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDef/dttTest2.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDefCH/AutoStepDefCHROME.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDefFOX/AutoStepDefFOX.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDefIE/AutoStepDefIE.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/StepDefOPERA/AutoStepDefOPERA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Utility/BrowserFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/Utility/ScreenPrint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/WebDriver/DriverInstance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/autopageclass/AddrPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/autopageclass/AutoLoginPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/autopageclass/AutoPracticeLoginPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/autopageclass/AutoPracticePOM.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/autopageclass/UserAccountPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/dttTests/AlreadyLoggedOntoDTT.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/dttTests/dttLoginPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/dttTests/dttPOMDef.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/dttTests/dttPOMRunner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/dttTests/dttRun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/dttTests/dttTest2Runner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/src/test/java/com/dttTests/validityCheckPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/classes/CucumberTest/NasaTest/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/classes/CucumberTest/NasaTest/Test1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/classes/CucumberTest/NasaTest/testProperties.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/classes/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/classes/META-INF/maven/autoTest.com/NasaTest/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/classes/META-INF/maven/autoTest.com/NasaTest/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/html/formatter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/html/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/html/jquery-1.8.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/html/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/html/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/CucumberTest/NasaTest/AppTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Feat/AddAddress.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Feat/autosite.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Feat/dtt.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Feat/dttPOM.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Pages/AddressPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Pages/HomePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Pages/OrderHistoryPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Pages/RunHomeAndLogin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Pages/loginPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/PicoContainer/ClassList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/PicoContainer/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Runners/AddAddressRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Runners/autoRunnerChrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Runners/autoRunnerFox.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Runners/autoRunnerIE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Runners/autoRunnerOpera.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/AddAddrStepDef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/DDTestStepDef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/FromSeleniumIDE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/PlaceOrderStepDef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/PlaceOrders.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/PlaceOrdersRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/RegNewRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/RegNewStepDef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/Register.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/RegisterNew.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/RegisterRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/RegisterStepDef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/TestingPlaceOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/dttPOMStepDef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/dttStepDef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDef/dttTest2.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDefCH/AutoStepDefCHROME.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDefFOX/AutoStepDefFOX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDefIE/AutoStepDefIE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/StepDefOPERA/AutoStepDefOPERA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Utility/BrowserFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/Utility/ScreenPrint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/WebDriver/DriverInstance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/autopageclass/AddrPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/autopageclass/AutoLoginPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/autopageclass/AutoPracticeLoginPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/autopageclass/AutoPracticePOM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/autopageclass/UserAccountPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/dttTests/AlreadyLoggedOntoDTT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/dttTests/dttLoginPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/dttTests/dttPOMDef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/dttTests/dttPOMRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/dttTests/dttRun.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/dttTests/dttTest2Runner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/target/test-classes/com/dttTests/validityCheckPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Default suite/Default test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Default suite/Default test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Default suite/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Suite/ChromeTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Suite/ChromeTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Suite/FoxTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Suite/FoxTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Suite/IETest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Suite/IETest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Suite/OperaTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Suite/OperaTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/Suite/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/bullet_point.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/collapseall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/emailable-report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/failed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/junitreports/TEST-Pages.RunHomeAndLogin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/junitreports/TEST-Runners.AddAddressRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/junitreports/TEST-Runners.autoRunnerChrome.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/junitreports/TEST-Runners.autoRunnerFox.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/junitreports/TEST-Runners.autoRunnerIE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/junitreports/TEST-Runners.autoRunnerOpera.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/junitreports/TEST-WebServices.TC01_GetMethod.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/junitreports/TEST-com.dtt.tests.dttPOMRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/junitreports/TEST-com.dtt.tests.dttRun.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/navigator-bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/Default test.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Default suite/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/ChromeTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/FoxTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/IETest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/OperaTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/Suite/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/passed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/skipped.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/testng-reports.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/testng-reports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/testng-results.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NasaTest/test-output/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.springBeans" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XBrowserTests.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/beansTest.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/NasaTest/Pages/HomePage.class" afterPath="$PROJECT_DIR$/out/test/NasaTest/Pages/HomePage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/NasaTest/Runners/RunHomeAndLogin.class" afterPath="$PROJECT_DIR$/out/test/NasaTest/Runners/RunHomeAndLogin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/AddAddrStepDef.class" afterPath="$PROJECT_DIR$/out/test/NasaTest/StepDef/AddAddrStepDef.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/NasaTest/Utility/BrowserLists.class" afterPath="$PROJECT_DIR$/out/test/NasaTest/Utility/BrowserLists.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/autopageclass/AutoPracticePOM.class" afterPath="$PROJECT_DIR$/out/test/NasaTest/com/autopageclass/AutoPracticePOM.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrossBrowserTests.xml" afterPath="$PROJECT_DIR$/CrossBrowserTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLogin.java" afterPath="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLogin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/StepDef/AddAddrStepDef.java" afterPath="$PROJECT_DIR$/src/test/java/StepDef/AddAddrStepDef.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Utility/BrowserLists.java" afterPath="$PROJECT_DIR$/src/test/java/Utility/BrowserLists.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/autopageclass/AutoPracticePOM.java" afterPath="$PROJECT_DIR$/src/test/java/com/autopageclass/AutoPracticePOM.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -328,22 +39,9 @@
       <file leaf-file-name="AddAddrStepDef.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StepDef/AddAddrStepDef.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="124">
+              <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AutoPracticePOM.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/autopageclass/AutoPracticePOM.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-              <folding>
-                <element signature="e#989#990#0" expanded="true" />
-                <element signature="e#1014#1015#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -351,73 +49,21 @@
       <file leaf-file-name="BrowserLists.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Utility/BrowserLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="465">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AutoStepDefCHROME.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/StepDefCH/AutoStepDefCHROME.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-638">
-              <caret line="27" column="72" lean-forward="true" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoRunnerChrome.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Runners/autoRunnerChrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoRunnerFox.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Runners/autoRunnerFox.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoRunnerIE.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Runners/autoRunnerIE.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunHomeAndLogin.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RunHomeAndLogin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="316">
+              <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Pages/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -425,8 +71,8 @@
       <file leaf-file-name="CrossBrowserTests.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CrossBrowserTests.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            <state relative-caret-position="663">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -444,6 +90,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>div/div/div[2]/ul/li[9]/a[2]/span</find>
+      <find>log4j</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -459,18 +106,21 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/BrowserFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/RunHomeAndLogin2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Utility/BrowserLists.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/RunHomeAndLogin.java" />
         <option value="$PROJECT_DIR$/src/test/java/Feat/AddAddress.feature" />
         <option value="$PROJECT_DIR$/src/test/java/Runners/AddAddressRunner.java" />
-        <option value="$PROJECT_DIR$/src/test/java/StepDef/AddAddrStepDef.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/autopageclass/AutoPracticePOM.java" />
         <option value="$PROJECT_DIR$/src/test/java/StepDefCH/AutoStepDefCHROME.java" />
         <option value="$PROJECT_DIR$/src/test/java/Runners/autoRunnerFox.java" />
         <option value="$PROJECT_DIR$/src/test/java/Runners/autoRunnerChrome.java" />
         <option value="$PROJECT_DIR$/src/test/java/Runners/autoRunnerIE.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/autopageclass/AutoPracticePOM.java" />
+        <option value="$PROJECT_DIR$/test.properties" />
         <option value="$PROJECT_DIR$/CrossBrowserTests.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Utility/BrowserLists.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDef/AddAddrStepDef.java" />
         <option value="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLogin.java" />
       </list>
     </option>
@@ -528,6 +178,12 @@
               <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -536,77 +192,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="autopageclass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dttTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Feat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Runners" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="StepDefCH" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Utility" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -619,9 +204,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Properties" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitClones\BDDTest" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitClones\BDDTest\src\main\resources" />
+      <recent name="C:\GitClones\BDDTest\Properties" />
+      <recent name="C:\GitClones\BDDTest" />
       <recent name="C:\GitClones\BDDTest\src\test\java\Utility" />
       <recent name="C:\GitClones\BDDTest\src\test\Utils" />
     </key>
@@ -870,10 +462,10 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG.C:/GitClones/BDDTest/CrossBrowserTests.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.autoRunnerChrome" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.autoRunnerFox" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.AddAddressRunner" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.RunHomeAndLogin" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.RunHomeAndLogin" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.autoRunnerChrome" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.autoRunnerFox" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.AddAddressRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -891,35 +483,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 12h 03m 35s.xml">
+    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 14h 33m 32s.xml">
       <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 12h 04m 20s.xml">
+    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 15h 00m 33s.xml">
       <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 12h 04m 44s.xml">
+    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 15h 07m 20s.xml">
       <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 12h 06m 18s.xml">
+    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 15h 46m 23s.xml">
       <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 12h 07m 04s.xml">
+    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 15h 54m 31s.xml">
       <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 12h 10m 21s.xml">
-      <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
+    <history-entry file="RunHomeAndLogin - 2017.07.30 at 13h 38m 51s.xml">
+      <configuration name="RunHomeAndLogin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 12h 16m 08s.xml">
-      <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
+    <history-entry file="RunHomeAndLogin - 2017.07.30 at 14h 01m 31s.xml">
+      <configuration name="RunHomeAndLogin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.07.30 at 12h 25m 03s.xml">
-      <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
+    <history-entry file="RunHomeAndLogin - 2017.07.30 at 14h 17m 26s.xml">
+      <configuration name="RunHomeAndLogin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="autoRunnerChrome - 2017.07.30 at 12h 12m 02s.xml">
-      <configuration name="autoRunnerChrome" configurationId="TestNG" />
+    <history-entry file="RunHomeAndLogin - 2017.07.30 at 14h 21m 37s.xml">
+      <configuration name="RunHomeAndLogin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="autoRunnerFox - 2017.07.30 at 12h 09m 33s.xml">
-      <configuration name="autoRunnerFox" configurationId="JUnit" />
+    <history-entry file="RunHomeAndLogin - 2017.07.30 at 14h 25m 34s.xml">
+      <configuration name="RunHomeAndLogin" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -944,7 +536,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45128205" sideWeight="0.5030257" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44957265" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2991453" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1028,14 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="103" column="20" lean-forward="true" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/WebDriver/DriverInstance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -1110,26 +694,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StepDef/AddAddrStepDef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/autopageclass/AutoPracticeLoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Utility/BrowserLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1142,22 +710,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefCH/AutoStepDefCHROME.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Runners/autoRunnerIE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-638">
-          <caret line="27" column="72" lean-forward="true" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
+        <state relative-caret-position="102">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/autopageclass/AutoPracticePOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-          <folding>
-            <element signature="e#989#990#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1169,44 +726,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Runners/autoRunnerIE.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Runners/autoRunnerChrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="155">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefCH/AutoStepDefCHROME.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638">
+          <caret line="27" column="72" lean-forward="true" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CrossBrowserTests.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        <state relative-caret-position="659">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="83" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/autopageclass/AutoPracticePOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="94" lean-forward="false" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/NasaTest/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="179">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDef/AddAddrStepDef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenShots/orderPage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenShots/loginPage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenShots/addressPage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrossBrowserTests.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utility/BrowserLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Runners/autoRunnerChrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="316">
+          <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
