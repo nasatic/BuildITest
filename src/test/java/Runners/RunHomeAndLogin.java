@@ -4,6 +4,7 @@ import Pages.AddressPage;
 import Pages.HomePage;
 import Pages.OrderHistoryPage;
 import Pages.loginPage;
+import Utility.BaseClass;
 import Utility.BrowserLists;
 import Utility.ScreenPrint;
 import org.openqa.selenium.WebDriver;
@@ -24,11 +25,12 @@ public class RunHomeAndLogin {
     @Test(priority = 1)
 
     public void loginPage() throws Throwable {
-        driver = BrowserLists.startIEbrowser();
-        PageFactory.initElements(driver, loginPage.class);
+        driver = BaseClass.startBrowser("opera", "http://automationpractice.com/index.php");
+        driver = BaseClass.startBrowser("ie", "http://automationpractice.com/index.php");
+        driver = BaseClass.startBrowser("chrome", "http://automationpractice.com/index.php");
+//        PageFactory.initElements(driver, loginPage.class);
         log.logonToHomePage("testing01@mine.com", "billyjones");
         System.out.println("BrowserList Class Contains :" + BrowserLists.class);
-
     }
 
     @Test(priority = 2)
@@ -57,15 +59,6 @@ public class RunHomeAndLogin {
         address.logoutOfPage();
         address.shutdown();
 
-    }
-
-    @AfterMethod
-    public void closeDown(ITestResult res) {
-
-        if (ITestResult.SUCCESS == res.getStatus()) {
-            ScreenPrint.getScreenShot(driver, res.getName());
-
-        }
     }
 
 }

@@ -1,0 +1,10 @@
+Feature: Registered Users Can Add and delete added Address.
+
+  Scenario Outline: Add address to Profile                                                                                                                   [90m# src/test/java/Feat/AddAddress.feature:3[0m
+    [36mGiven [0m[36mUser is logged in with valid "<Username>" and "<Password>"[0m
+    [36mWhen [0m[36mUser_Clicks On MyAddresses Link[0m
+    [36mAnd [0m[36mUser Adds "<Address1>" and "<City>" and "<State>" and "<ZIPCode>" and "<Country>" and "<HomePhone>" and "<Mobile>" and "<AddInfo>" and "<AddrAlias>"[0m
+    [36mThen [0m[36mNew Address is added To Addresses Grid[0m
+    [36mAnd [0m[36mUser Can delete added addresses and logout[0m
+
+    Examples: 

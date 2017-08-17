@@ -1,14 +1,11 @@
 package Pages;
 
+import Utility.AbstractPageClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 public class AddressPage extends OrderHistoryPage {
 
-	public AddressPage(WebDriver driver) {
-		super(driver);
-		
-	}  
 
 	By AddAddressBtn = By.xpath("//div[@id='center_column']/div[2]/a/span");
 	By Address1 = By.xpath(".//*[@id='address1']");
@@ -23,6 +20,10 @@ public class AddressPage extends OrderHistoryPage {
 	By Save = By.id("submitAddress");
 	By DeleteAddress = By.xpath("//div[@id='center_column']/div/div/div[2]/ul/li[9]/a[2]/span");
 
+	public AddressPage(WebDriver driver) {
+		super(driver);
+	}
+//	@Override
 	public void addSecondAddress() throws Throwable {
 		driver.findElement(AddAddressBtn).click();
 		Thread.sleep(3000);
@@ -39,6 +40,8 @@ public class AddressPage extends OrderHistoryPage {
 		Thread.sleep(3000);
 
 	}
+
+//	@Override
 	public void deleteAddedAddress() throws Throwable {
 		driver.findElement(DeleteAddress).click();
 		Thread.sleep(2000);
@@ -46,14 +49,14 @@ public class AddressPage extends OrderHistoryPage {
 		Thread.sleep(3000);
 		System.out.println("Driver Instance used on Address Page is :" + driver);
 	}
-
+//	@Override
 	public void logoutOfPage() throws Throwable {
 		driver.findElement(logout).click();
 		System.out.println("Driver Instance used on Address Page is :" + driver);
 		Thread.sleep(3000);
 
 	}
-
+//	@Override
 	public void shutdown() {
 		driver.close();
 		driver.quit();

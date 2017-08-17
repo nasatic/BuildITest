@@ -35,7 +35,7 @@ public class AddAddrStepDef {
 
 //        auto.launchOPERAdriver();
         driver = BrowserLists.startFOXbrowser();
-        PageFactory.initElements(driver, AutoPracticePOM.class);
+//        PageFactory.initElements(driver, AutoPracticePOM.class);
         Thread.sleep(3000);
         auto.clickOnSignIn();
         Thread.sleep(3000);
