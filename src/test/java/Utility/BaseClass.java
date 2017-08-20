@@ -22,26 +22,34 @@ public class BaseClass {
 
 
     @BeforeMethod
-    public static WebDriver startBrowser(String browserName, String url) {
+    public static WebDriver startBrowser(String browserName, String url) throws InterruptedException {
+
 
         if (browserName.equalsIgnoreCase("firefox")) {
             driver = new FirefoxDriver();
 
         } else if (browserName.equalsIgnoreCase("IE")) {
-            driver = new InternetExplorerDriver(capabilities);
+            driver = new InternetExplorerDriver();
+            driver.manage().window().maximize();
+
 
         } else if (browserName.equalsIgnoreCase("Chrome")) {
             driver = new ChromeDriver();
+            driver.manage().window().maximize();
+
 
         } else if (browserName.equalsIgnoreCase("Opera")) {
             driver = new OperaDriver();
+            driver.manage().window().maximize();
+
+
 
         }
         PageFactory.initElements(driver, loginPage.class);
-        driver.manage().window().maximize();
         driver.get(url);
-        driver.manage().timeouts().implicitlyWait(7, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().deleteAllCookies();
+        Thread.sleep(5000);
         return driver;
 
     }
