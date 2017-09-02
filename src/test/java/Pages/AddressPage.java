@@ -3,6 +3,7 @@ package Pages;
 import Utility.AbstractPageClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import java.util.logging.Logger;
 
 public class AddressPage extends OrderHistoryPage {
 
@@ -19,6 +20,8 @@ public class AddressPage extends OrderHistoryPage {
 	By AddressAlias = By.id("alias");
 	By Save = By.id("submitAddress");
 	By DeleteAddress = By.xpath("//div[@id='center_column']/div/div/div[2]/ul/li[9]/a[2]/span");
+	
+	Logger log = Logger.getLogger("AddressPage");
 
 	public AddressPage(WebDriver driver) {
 		super(driver);
@@ -47,12 +50,12 @@ public class AddressPage extends OrderHistoryPage {
 		Thread.sleep(2000);
 		driver.switchTo().alert().accept();
 		Thread.sleep(3000);
-		System.out.println("Driver Instance used on Address Page is :" + driver);
+		log.info("Driver Instance used on Address Page is :" + driver);
 	}
 //	@Override
 	public void logoutOfPage() throws Throwable {
 		driver.findElement(logout).click();
-		System.out.println("Driver Instance used on Address Page is :" + driver);
+		log.info("Driver Instance used on Address Page is :" + driver);
 		Thread.sleep(3000);
 
 	}

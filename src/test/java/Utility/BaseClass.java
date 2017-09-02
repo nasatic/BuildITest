@@ -23,7 +23,7 @@ public class BaseClass {
 
     @BeforeMethod
     @Parameters("browserName")
-    public static WebDriver startBrowser(String browserName, String url) {
+    public static WebDriver startBrowser(String browserName, String url) throws InterruptedException {
 
         if (browserName.equalsIgnoreCase("firefox")) {
             driver = new FirefoxDriver();
@@ -33,16 +33,16 @@ public class BaseClass {
 
         } else if (browserName.equalsIgnoreCase("Chrome")) {
             driver = new ChromeDriver();
-
+          
         } else if (browserName.equalsIgnoreCase("Opera")) {
             driver = new OperaDriver();
-
         }
         PageFactory.initElements(driver, loginPage.class);
-        driver.manage().window().maximize();
         driver.get(url);
-        driver.manage().timeouts().implicitlyWait(7, TimeUnit.SECONDS);
+        driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().deleteAllCookies();
+        Thread.sleep(5000);
         return driver;
 
     }
