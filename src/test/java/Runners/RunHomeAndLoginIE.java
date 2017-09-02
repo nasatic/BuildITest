@@ -6,15 +6,10 @@ import Pages.OrderHistoryPage;
 import Pages.loginPage;
 import Utility.BaseClass;
 import Utility.BrowserLists;
-import Utility.ScreenPrint;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.PageFactory;
-import org.testng.ITestResult;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class RunHomeAndLogin {
+public class RunHomeAndLoginIE {
 
     static WebDriver driver;
     loginPage log = new loginPage(driver);
@@ -26,7 +21,7 @@ public class RunHomeAndLogin {
     @Test(priority = 1)
 
     public void loginPage() throws Throwable {
-        driver = BaseClass.startBrowser("CHROME", "http://automationpractice.com/index.php");
+        driver = BaseClass.startBrowser("ie", "http://automationpractice.com/index.php");
 //        PageFactory.initElements(driver, loginPage.class);
         log.logonToHomePage("testing01@mine.com", "billyjones");
         System.out.println("BrowserList Class Contains :" + BrowserLists.class);
