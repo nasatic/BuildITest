@@ -6,23 +6,21 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.opera.OperaDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
-import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-import static Utility.BrowserFactory.capabilities;
-import static Utility.BrowserFactory.driver;
+public class ParaTestBaseClass {
 
-public class BaseClass {
+     static WebDriver driver;
 
     @BeforeMethod
-    public static WebDriver startBrowser(String browserName, String url) throws InterruptedException {
+    @Parameters("browserName")
+    public  WebDriver setup(String browserName) throws InterruptedException {
 
         if (browserName.equalsIgnoreCase("firefox")) {
             driver = new FirefoxDriver();
@@ -37,21 +35,21 @@ public class BaseClass {
             driver = new OperaDriver();
         }
         PageFactory.initElements(driver, loginPage.class);
-        driver.get(url);
+        driver.get("http://automationpractice.com/index.php");
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().deleteAllCookies();
         Thread.sleep(5000);
         return driver;
-
     }
+
 
     @AfterMethod
     public void closeDown(ITestResult res) {
         if (ITestResult.SUCCESS == res.getStatus()) {
-            ScreenPrint.getScreenShot(driver, res.getName());
-            driver.close();
-            driver.quit();
+            ScreenPrint.getScreenShot(BrowserFactory.driver, res.getName());
+            BrowserFactory.driver.close();
+            BrowserFactory.driver.quit();
         }
     }
 }

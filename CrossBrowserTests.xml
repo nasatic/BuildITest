@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="TestSuite" thread-count="3" parallel="tests">
 
-    <test name="FoxTest">
+<suite name="TestSuite" thread-count="3" parallel="tests">
+    <test name="FirefoxTest">
         <parameter name="browserName" value="firefox"/>
         <classes>
-            <!--<class name = "Runners.autoRunnerFox"/>  -->
-            <class name="Runners.RunHomeAndLoginFox"/>
+            <class name="Runners.ParameterTest"/>
         </classes>
     </test> <!-- Test -->
 
     <test name="ChromeTest">
         <parameter name="browserName" value="chrome"/>
         <classes>
-            <!--<class name = "Runners.autoRunnerChrome"/>-->
-            <class name="Runners.RunHomeAndLogin"/>
-            <!--<class name = "com.dttTests.dttRun"/>-->
+            <class name="Runners.ParameterTest"/>
         </classes>
     </test> <!-- Test -->
 
     <test name="IETest">
         <parameter name="browserName" value="IE"/>
         <classes>
-            <!--<class name = "Runners.autoRunnerIE"/> -->
-            <class name="Runners.RunHomeAndLoginIE"/>
+            <class name="Runners.ParameterTest"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

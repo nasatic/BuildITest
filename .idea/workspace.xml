@@ -1,109 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/CrossBrowserTests.xml" description="  &lt;class name = &quot;Runners.RunHomeAndLogin&quot;/&gt;" line="8" />
+    <bookmark url="file://$PROJECT_DIR$/CrossBrowserTests.xml" description="  &lt;class name = &quot;Runners.RunHomeAndLogin&quot;/&gt;" line="7" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="776b9913-c34c-4aa4-9ecc-075e7d9e5cd2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/file-changes/last-build.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.1/fileChanges/last-build.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/Runners/RunHomeAndLogin.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/Utility/BaseClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BDDTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Pages/AddressPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Pages/HomePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Pages/OrderHistoryPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Pages/loginPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/autoTest.com/NasaTest/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/autoTest.com/NasaTest/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/html/cucumber-pretty" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/html/formatter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/html/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/html/jquery-1.8.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/html/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/html/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Feat/AddAddress.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Feat/autosite.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Feat/dtt.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Feat/dttPOM.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Pages/RunHomeAndLogin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/StepDef/PlaceOrders.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/StepDef/Register.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/StepDef/RegisterNew.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/StepDef/dttTest2.feature" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/NasaTest/CucumberTest/NasaTest/App.class" afterPath="$PROJECT_DIR$/target/classes/CucumberTest/NasaTest/App.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/NasaTest/CucumberTest/NasaTest/Test1.class" afterPath="$PROJECT_DIR$/target/classes/CucumberTest/NasaTest/Test1.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/NasaTest/CucumberTest/NasaTest/testProperties.class" afterPath="$PROJECT_DIR$/target/classes/CucumberTest/NasaTest/testProperties.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/NasaTest/log4j.properties" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/CucumberTest/NasaTest/AppTest.class" afterPath="$PROJECT_DIR$/target/test-classes/CucumberTest/NasaTest/AppTest.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/PicoContainer/ClassList.class" afterPath="$PROJECT_DIR$/target/test-classes/PicoContainer/ClassList.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/PicoContainer/Person.class" afterPath="$PROJECT_DIR$/target/test-classes/PicoContainer/Person.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Runners/AddAddressRunner.class" afterPath="$PROJECT_DIR$/target/test-classes/Runners/AddAddressRunner.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Runners/autoRunnerChrome.class" afterPath="$PROJECT_DIR$/target/test-classes/Runners/autoRunnerChrome.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Runners/autoRunnerFox.class" afterPath="$PROJECT_DIR$/target/test-classes/Runners/autoRunnerFox.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Runners/autoRunnerIE.class" afterPath="$PROJECT_DIR$/target/test-classes/Runners/autoRunnerIE.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Runners/autoRunnerOpera.class" afterPath="$PROJECT_DIR$/target/test-classes/Runners/autoRunnerOpera.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/AddAddrStepDef.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/AddAddrStepDef.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/DDTestStepDef.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/DDTestStepDef.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/FromSeleniumIDE.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/FromSeleniumIDE.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/PlaceOrderStepDef.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/PlaceOrderStepDef.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/PlaceOrdersRunner.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/PlaceOrdersRunner.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/RegNewRunner.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/RegNewRunner.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/RegNewStepDef.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/RegNewStepDef.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/RegisterRunner.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/RegisterRunner.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/RegisterStepDef.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/RegisterStepDef.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/TestingPlaceOrder.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/TestingPlaceOrder.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/dttPOMStepDef.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/dttPOMStepDef.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDef/dttStepDef.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDef/dttStepDef.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDefCH/AutoStepDefCHROME.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDefCH/AutoStepDefCHROME.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDefFOX/AutoStepDefFOX.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDefFOX/AutoStepDefFOX.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDefIE/AutoStepDefIE.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDefIE/AutoStepDefIE.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/StepDefOPERA/AutoStepDefOPERA.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDefOPERA/AutoStepDefOPERA.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Utility/AbstractPageClass.class" afterPath="$PROJECT_DIR$/target/test-classes/Utility/AbstractPageClass.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Utility/BrowserFactory.class" afterPath="$PROJECT_DIR$/target/test-classes/Utility/BrowserFactory.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Utility/BrowserLists.class" afterPath="$PROJECT_DIR$/target/test-classes/Utility/BrowserLists.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Utility/ScreenPrint.class" afterPath="$PROJECT_DIR$/target/test-classes/Utility/ScreenPrint.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/WebDriver/DriverInstance.class" afterPath="$PROJECT_DIR$/target/test-classes/WebDriver/DriverInstance.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/autopageclass/AddrPage.class" afterPath="$PROJECT_DIR$/target/test-classes/com/autopageclass/AddrPage.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/autopageclass/AutoLoginPage.class" afterPath="$PROJECT_DIR$/target/test-classes/com/autopageclass/AutoLoginPage.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/autopageclass/AutoPracticeLoginPage.class" afterPath="$PROJECT_DIR$/target/test-classes/com/autopageclass/AutoPracticeLoginPage.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/autopageclass/AutoPracticePOM.class" afterPath="$PROJECT_DIR$/target/test-classes/com/autopageclass/AutoPracticePOM.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/autopageclass/UserAccountPage.class" afterPath="$PROJECT_DIR$/target/test-classes/com/autopageclass/UserAccountPage.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/dttTests/AlreadyLoggedOntoDTT.class" afterPath="$PROJECT_DIR$/target/test-classes/com/dttTests/AlreadyLoggedOntoDTT.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/dttTests/dttLoginPage.class" afterPath="$PROJECT_DIR$/target/test-classes/com/dttTests/dttLoginPage.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/dttTests/dttPOMDef.class" afterPath="$PROJECT_DIR$/target/test-classes/com/dttTests/dttPOMDef.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/dttTests/dttPOMRunner.class" afterPath="$PROJECT_DIR$/target/test-classes/com/dttTests/dttPOMRunner.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/dttTests/dttRun.class" afterPath="$PROJECT_DIR$/target/test-classes/com/dttTests/dttRun.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/dttTests/dttTest2Runner.class" afterPath="$PROJECT_DIR$/target/test-classes/com/dttTests/dttTest2Runner.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/NasaTest/com/dttTests/validityCheckPage.class" afterPath="$PROJECT_DIR$/target/test-classes/com/dttTests/validityCheckPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/NasaTest/Runners/RunHomeAndLogin.class" afterPath="$PROJECT_DIR$/out/test/NasaTest/Runners/RunHomeAndLogin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/NasaTest/Utility/BaseClass.class" afterPath="$PROJECT_DIR$/out/test/NasaTest/Utility/BaseClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Pages/AddressPage.class" afterPath="$PROJECT_DIR$/target/test-classes/Pages/AddressPage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Utility/ParaTestBaseClass.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Runners/RunHomeAndLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Runners/RunHomeAndLoginFox.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Runners/RunHomeAndLoginIE.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/NasaTest/Utility/BaseClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLoginIE.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLoginFox.java" afterPath="$PROJECT_DIR$/src/test/java/Runners/ParameterTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage.class" afterPath="$PROJECT_DIR$/target/test-classes/Pages/HomePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Pages/OrderHistoryPage.class" afterPath="$PROJECT_DIR$/target/test-classes/Pages/OrderHistoryPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Pages/loginPage.class" afterPath="$PROJECT_DIR$/target/test-classes/Pages/loginPage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Runners/RunHomeAndLogin.class" afterPath="$PROJECT_DIR$/target/test-classes/Runners/RunHomeAndLogin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Utility/BaseClass.class" afterPath="$PROJECT_DIR$/target/test-classes/Utility/BaseClass.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NasaTest.iml" afterPath="$PROJECT_DIR$/NasaTest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Pages/AddressPage.java" afterPath="$PROJECT_DIR$/src/test/java/Pages/AddressPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Pages/OrderHistoryPage.java" afterPath="$PROJECT_DIR$/src/test/java/Pages/OrderHistoryPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Pages/loginPage.java" afterPath="$PROJECT_DIR$/src/test/java/Pages/loginPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrossBrowserTests.xml" afterPath="$PROJECT_DIR$/CrossBrowserTests.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLogin.java" afterPath="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLogin.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Utility/BaseClass.java" afterPath="$PROJECT_DIR$/src/test/java/Utility/BaseClass.java" />
     </list>
@@ -121,12 +35,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BaseClass.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Utility/BaseClass.java">
+      <file leaf-file-name="ParameterTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Runners/ParameterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="35" column="10" lean-forward="false" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+            <state relative-caret-position="51">
+              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrossBrowserTests.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrossBrowserTests.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParaTestBaseClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Utility/ParaTestBaseClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -190,11 +126,13 @@
         <option value="$PROJECT_DIR$/src/test/java/Utility/AbstractPageClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/loginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Utility/ScreenPrint.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLoginFox.java" />
         <option value="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLoginIE.java" />
         <option value="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLogin.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLoginFox.java" />
-        <option value="$PROJECT_DIR$/CrossBrowserTests.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Runners/ParameterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Utility/BaseClass.java" />
+        <option value="$PROJECT_DIR$/CrossBrowserTests.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Utility/ParaTestBaseClass.java" />
       </list>
     </option>
   </component>
@@ -245,7 +183,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="y" value="1" />
     <option name="width" value="1364" />
@@ -267,6 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,14 +214,54 @@
               <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Runners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDDTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Utility" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -374,7 +354,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RunHomeAndLogin (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ParameterTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Runners.*" />
@@ -386,7 +366,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="Runners" />
-      <option name="MAIN_CLASS_NAME" value="Runners.RunHomeAndLogin" />
+      <option name="MAIN_CLASS_NAME" value="Runners.ParameterTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -438,7 +418,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RunHomeAndLogin.loginPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RunHomeAndLogin.logonToHomePage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Runners.*" />
@@ -451,7 +431,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="Runners" />
       <option name="MAIN_CLASS_NAME" value="Runners.RunHomeAndLogin" />
-      <option name="METHOD_NAME" value="loginPage" />
+      <option name="METHOD_NAME" value="logonToHomePage" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -553,17 +533,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG.RunHomeAndLogin" />
       <item index="1" class="java.lang.String" itemvalue="TestNG.C:/GitClones/BDDTest/CrossBrowserTests.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.RunHomeAndLogin.loginPage" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.AddAddressRunner" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.RunHomeAndLogin (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AddAddressRunner" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.RunHomeAndLogin.logonToHomePage" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.ParameterTest" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG.C:/GitClones/BDDTest/CrossBrowserTests.xml" />
         <item index="1" class="java.lang.String" itemvalue="TestNG.RunHomeAndLogin" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.AddAddressRunner" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.RunHomeAndLogin (1)" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.RunHomeAndLogin.loginPage" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.ParameterTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.RunHomeAndLogin.logonToHomePage" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.AddAddressRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -581,35 +561,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.02 at 22h 18m 00s.xml">
+    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.03 at 14h 17m 34s.xml">
       <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.02 at 22h 28m 40s.xml">
+    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.03 at 14h 21m 13s.xml">
       <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.02 at 22h 34m 51s.xml">
+    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.03 at 15h 11m 17s.xml">
       <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.02 at 22h 39m 11s.xml">
+    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.03 at 16h 02m 32s.xml">
       <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.02 at 22h 48m 27s.xml">
-      <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.02 at 22h 54m 10s.xml">
-      <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.02 at 23h 13m 41s.xml">
-      <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__GitClones_BDDTest_CrossBrowserTests_xml - 2017.09.02 at 23h 24m 38s.xml">
-      <configuration name="C:/GitClones/BDDTest/CrossBrowserTests.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RunHomeAndLogin - 2017.09.02 at 22h 56m 59s.xml">
+    <history-entry file="RunHomeAndLogin - 2017.09.03 at 13h 46m 24s.xml">
       <configuration name="RunHomeAndLogin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RunHomeAndLogin - 2017.09.02 at 22h 59m 24s.xml">
+    <history-entry file="RunHomeAndLogin - 2017.09.03 at 13h 47m 28s.xml">
       <configuration name="RunHomeAndLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunHomeAndLogin - 2017.09.03 at 13h 51m 46s.xml">
+      <configuration name="RunHomeAndLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunHomeAndLogin - 2017.09.03 at 13h 58m 25s.xml">
+      <configuration name="RunHomeAndLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunHomeAndLogin - 2017.09.03 at 14h 23m 06s.xml">
+      <configuration name="RunHomeAndLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunHomeAndLoginIE - 2017.09.03 at 14h 11m 24s.xml">
+      <configuration name="RunHomeAndLoginIE" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -622,43 +602,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31569666" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2888889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45128205" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3915344" sideWeight="0.506135" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38426626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3794872" sideWeight="0.49386504" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5414462" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3059816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30635402" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45128205" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38426626" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3915344" sideWeight="0.506135" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38426626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -667,17 +646,17 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31794873" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2892416" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3915344" sideWeight="0.49386504" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31965813" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26701966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31058282" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -693,13 +672,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/Feat/autosite.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Runners/autoRunnerIE.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -724,13 +696,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources.properties" />
-    <entry file="file://$PROJECT_DIR$/out/production/NasaTest/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/NasaTest/log4j.properties" />
     <entry file="file://$PROJECT_DIR$/ScreenShots/addressPage.png" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -781,13 +747,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/html/index.html" />
     <entry file="file://$PROJECT_DIR$/test-output/Suite/ChromeTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -810,13 +770,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/html/cucumber-pretty">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2652">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/html/cucumber-pretty" />
     <entry file="file://$PROJECT_DIR$/src/test/java/StepDefCH/AutoStepDefCHROME.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-546">
@@ -939,53 +893,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLoginFox.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/loginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        <state relative-caret-position="816">
+          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLoginFox.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utility/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="23" column="48" lean-forward="false" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Runners/RunHomeAndLoginIE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-122">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="197">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CrossBrowserTests.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="187">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/loginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Runners/ParameterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utility/ParaTestBaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Utility/BaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="35" column="10" lean-forward="false" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>

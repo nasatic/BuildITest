@@ -4,12 +4,13 @@ import Pages.AddressPage;
 import Pages.HomePage;
 import Pages.OrderHistoryPage;
 import Pages.loginPage;
-import Utility.BaseClass;
 import Utility.BrowserLists;
+import Utility.ParaTestBaseClass;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-public class RunHomeAndLoginFox {
+public class ParameterTest extends ParaTestBaseClass{
+
 
     static WebDriver driver;
     loginPage log = new loginPage(driver);
@@ -17,12 +18,9 @@ public class RunHomeAndLoginFox {
     OrderHistoryPage order = new OrderHistoryPage(driver);
     AddressPage address = new AddressPage(driver);
 
-
-    @Test(priority = 1)
+   @Test(priority = 1)
 
     public void loginPage() throws Throwable {
-        driver = BaseClass.startBrowser("FIREFOX", "http://automationpractice.com/index.php");
-//        PageFactory.initElements(driver, loginPage.class);
         log.logonToHomePage("testing01@mine.com", "billyjones");
         System.out.println("BrowserList Class Contains :" + BrowserLists.class);
     }
