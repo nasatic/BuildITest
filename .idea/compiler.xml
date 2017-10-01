@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NasaTest" />
+        <module name="BuildIT" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="NasaTest" target="1.5" />
+      <module name="BuildIT" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

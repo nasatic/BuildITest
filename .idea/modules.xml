@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NasaTest.iml" filepath="$PROJECT_DIR$/NasaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuildIT.iml" filepath="$PROJECT_DIR$/BuildIT.iml" />
     </modules>
   </component>
 </project>
